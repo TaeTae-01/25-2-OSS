@@ -1,3 +1,3 @@
 # 25-2-OSS
-practicerepo
 ## study git
+Github is one of version control system.
